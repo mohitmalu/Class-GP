@@ -147,7 +147,7 @@ Feel free to fork the repo and submit a pull request.
 For questions or collaborations, please reach out via:
 
 * GitHub Issues
-* Email: [your-email@example.com](mailto:mohitmalu21@gmail.com)
+* Email: [mohitmalu21@gmail.com](mailto:mohitmalu21@gmail.com)
 
 ---
 
