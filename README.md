@@ -155,3 +155,5 @@ For questions or collaborations, please reach out via:
 
 This work is inspired by challenges in modeling non-stationary systems in real-world applications, particularly in domains where data is sparse, noisy, and expensive to obtain.
 
+This work is supported in part by National Science Foundation (NSF) under the awards 2200161, 2048223, 2003111, 2046588, 2134256, 1815361, 2031799, 2205080, 1901243, 1540040, 2003111, 2048223, by DARPA ARCOS program under contract FA8750-20-C-0507, Lockheed Martin funded contract FA8750-22-9-0001, and the SenSIP Center.
+
